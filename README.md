@@ -13,8 +13,6 @@ Beyond clean and efficient code, I thrive on adding aesthetics to craft visually
 
 ## 🔧 Technologies & Tools
 
-I wield the power of:
-
 - **Languages:** JavaScript
 - **Tech Palette:** React.js, Node.js, Express.js, MongoDB, HTML, CSS, RESTful APIs
 - **Development Tools:** Git, VSCode
