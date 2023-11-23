@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Irina!
+# 👋 Hey there, I'm Iryna!
 
 Welcome to my creative corner on GitHub! 🎨 As an aspiring Web Developer with a keen eye for detail and a passion for delivering exceptional results, I'm on a journey to infuse innovation and artistry into the tech world.
 
