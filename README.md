@@ -1,11 +1,11 @@
 # 👋 Hey there, I'm Irina!
 
-Welcome to my creative corner on GitHub! 🎨 As an aspiring Web Developer with a passion a keen eye for detail and a passion for delivering exceptional results, I'm on a journey to infuse innovation and artistry into the tech world.
+Welcome to my creative corner on GitHub! 🎨 As an aspiring Web Developer with a keen eye for detail and a passion for delivering exceptional results, I'm on a journey to infuse innovation and artistry into the tech world.
 
 ## 🚀 Quick Overview
 
-- 💡 Creating [Describe Your Creative Projects] that blend [Creative Element] with [Technical Element].
-- 🎸 Fun fact: I also [An Interesting Hobby or Skill You Have].
+- 💡 Creating BeyondWork [GitHub Repository](https://github.com/Marwahaldujaili/beyondwork) with my "Girls Power" team from DCI.
+- 🎸 Fun fact: I am also passionate about design, traveling, outdoor adventures, and volleyball.
 
 ## 🎨 What Sets Me Apart
 
