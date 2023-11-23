@@ -4,7 +4,7 @@ Welcome to my creative corner on GitHub! 🎨 As an aspiring Web Developer with 
 
 ## 🚀 Quick Overview
 
-- 💡 Creating BeyondWork [GitHub Repository](https://github.com/Marwahaldujaili/beyondwork) with my "Girls Power" team from DCI.
+- 💡 Creating  [BeyondWork](https://github.com/Marwahaldujaili/beyondwork) with my "Girls Power" team from DCI.
 - 🎸 Fun fact: I am also passionate about design, traveling, outdoor adventures, and volleyball.
 
 ## 🎨 What Sets Me Apart
@@ -22,4 +22,4 @@ I wield the power of:
 
 ## 🌟 Let's Connect
 
-- [LinkedIn] www.linkedin.com/in/iryna-khartanovich-28b41aa0
+- [LinkedIn](www.linkedin.com/in/iryna-khartanovich-28b41aa0)
