@@ -20,6 +20,5 @@ I wield the power of:
 - **Development Tools:** Git, VSCode
 - **Creative Arsenal:** Figma, Canva, Trello
 
-## 🌟 Let's Connect
-
-- [LinkedIn](www.linkedin.com/in/iryna-khartanovich-28b41aa0)
+## 🌟 Let's Connect 
+[LinkedIn](www.linkedin.com/in/iryna-khartanovich-28b41aa0)
