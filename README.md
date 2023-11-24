@@ -4,7 +4,7 @@ Welcome to my creative corner on GitHub! 🎨 As an aspiring Web Developer with 
 
 ## 🚀 Quick Overview
 
-- 💡 Creating  [BeyondWork](https://github.com/Marwahaldujaili/beyondwork) with my "Girls Power" team from DCI.
+- 💡 Creating  [BeyondWork](https://github.com/Marwahaldujaili/beyondwork) social platform for employees with my "Girls Power" team from DCI.
 - 🎸 Fun fact: I am also passionate about design, traveling, outdoor adventures, and volleyball.
 
 ## 🎨 What Sets Me Apart
