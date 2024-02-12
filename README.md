@@ -19,4 +19,4 @@ Beyond clean and efficient code, I thrive on adding aesthetics to craft visually
 - **Creative Arsenal:** Figma, Canva, Trello
 
 ## 🌟 Let's Connect 
-[LinkedIn](https://linkedin.com/in/iryna-khartanovich-28b41aa0)
+[LinkedIn](https://linkedin.com/in/iryna-khartanovich)
